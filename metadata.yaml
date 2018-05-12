@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8721'
     url: http://www.gutenberg.org/2009/agents/8721
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19528#Sixty-Years-of-California-Song
 gutenberg_bookshelf: Music
 gutenberg_issued: '2006-10-12'
 gutenberg_type: Text
