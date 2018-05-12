@@ -1,0 +1,28 @@
+_repo: Sixty-Years-of-California-Song_19528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alverson, Margaret Blake
+    alias: Blake-Alverson, Margaret
+    birthdate: 1836
+    deathdate: 1923
+    gutenberg_agent_id: '8721'
+    url: http://www.gutenberg.org/2009/agents/8721
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music -- California -- History and criticism'
+title: Sixty Years of California Song
+url: http://www.gutenberg.org/ebooks/19528
